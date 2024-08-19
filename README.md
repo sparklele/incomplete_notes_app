@@ -18,12 +18,12 @@ continuation on @esraafathy225 's NotesApp repo
             <color name="darkwhite">#FAFAFA</color>
 
   res/values/stringsxml:
-            <string name="update_note">Update Note</string>
-            <string name="note_updated">Note Updated Successfully</string>
-            <string name="delete">Delete Note</string>
-            <string name="confirm_delete">Do you want to delete this note?</string>
-            <string name="ok">OK</string>
-            <string name="cancel">CANCEL</string>
+            <string name="update_note">Update Note</string>,
+            <string name="note_updated">Note Updated Successfully</string>,
+            <string name="delete">Delete Note</string>,
+            <string name="confirm_delete">Do you want to delete this note?</string>,
+            <string name="ok">OK</string>,
+            <string name="cancel">CANCEL</string>,
             <string name="note_deleted">Note Deleted</string>
             
  --------------------------------------------------------------------------------------------------------------------
