@@ -12,10 +12,11 @@ continuation on @/esraafathy225 's NotesApp repo
 **added to files:  
 
   com.example.notesapp/main/adapter/NotesAdapter.kt         ::::::::::::::::::::::::::::::::: >>>>
-          interface NoteClickListener{}
-          function onNoteClicked(note : Note, binding : ItemNoteBinding, id : position){}
-          added holder.binding.root.setOnClickListener{} to function onBindViewHolder
-          changed implementation of the function areContentsTheSame in class                       UserItemDiffCallback
+          interface NoteClickListener{}, 
+          function onNoteClicked(note : Note, binding : ItemNoteBinding, id : position){}, 
+          added holder.binding.root.setOnClickListener{} to function onBindViewHolder, 
+          changed implementation of the function areContentsTheSame in class UserItemDiffCallback
+
 
   set model Note to extend Serializable
 
