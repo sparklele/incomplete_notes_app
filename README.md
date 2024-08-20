@@ -9,9 +9,9 @@ continuation on @/esraafathy225 's NotesApp repo
 
   com.example.notesapp/update_and_delete/view_model_update/UpdateNoteViewModel
 
-**added to files:
+**added to files:  
 
-  com.example.notesapp/main/adapter/NotesAdapter.kt
+  com.example.notesapp/main/adapter/NotesAdapter.kt         ::::::::::::::::::::::::::::::::: >>>>
           interface NoteClickListener{}
           function onNoteClicked(note : Note, binding : ItemNoteBinding, id : position){}
           added holder.binding.root.setOnClickListener{} to function onBindViewHolder
