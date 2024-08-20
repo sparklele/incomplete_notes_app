@@ -17,6 +17,8 @@ continuation on @/esraafathy225 's NotesApp repo
           added holder.binding.root.setOnClickListener{} to function onBindViewHolder
           changed implementation of the function areContentsTheSame in class                       UserItemDiffCallback
 
+  set model Note to extend Serializable
+
   res/layout/delete_or_update.xml (majorly original developer's design, I only added an appbar and chnaged the button's text)
 
   res/menu/delete_bar.xml
